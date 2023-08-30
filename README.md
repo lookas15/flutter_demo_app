@@ -1,6 +1,7 @@
 # flutter_application_1
 
 A new Flutter project. The quick brown fox jumps over the lazy dog.
+Gugu gaga gugu gaga, this file updated
 
 ## Getting Started
 
